@@ -6,15 +6,15 @@ This repository contains a collection of programming projects organized into thr
 
 This folder contains basic programming exercises and examples implemented in C.
 
-*   [List of files in Basic Programs folder](Basic_Programs/README.md)
+*   [List of files in Basic Programs folder](Basic-Programs/README.md)
 
 ## Management Systems
 
 This folder contains implementations of various management systems.
 
-*   [Event Scheduling System](Management_Systems/Event_Scheduling_System/README.md)
-*   [Library System](Management_Systems/Library_System/README.md)
-*   [Online Shopping System](Management_Systems/Online_Shopping_System/README.md)
+*   [Event Scheduling System](Management-Systems/Event-Scheduling-System/README.md)
+*   [Library System](Management-Systems/Library-System/README.md)
+*   [Online Shopping System](Management-Systems/Online-Shopping-System/README.md)
 
 ## Patterns
 
