@@ -22,6 +22,10 @@ This folder contains implementations of various pattern printing programs in C.
 
 *   [List of files in Patterns folder](Patterns/README.md)
 
+## About the Book
+
+"C How to Program (9th Edition)" by Deitel and Deitel is a comprehensive guide to learning the C programming language.  It covers a wide range of topics, from basic syntax and data types to more advanced concepts like pointers, data structures, and file processing.
+
 ## Contributing
 
 Contributions to this project are welcome!  Please feel free to submit pull requests or open issues for bug fixes, feature additions, or improvements to the existing code.  Be sure to follow the project's coding style and guidelines.
