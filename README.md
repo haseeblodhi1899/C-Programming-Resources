@@ -13,7 +13,7 @@ This folder contains basic programming exercises and examples implemented in C.
 This folder contains implementations of various management systems.
 
 *   [Event Scheduling System](Management-Systems/Event-Scheduling-System)
-*   [Library System](Management-Systems/Library-System/README.md)
+*   [Library System](Management-Systems/Library-System)
 *   [Online Shopping System](Management-Systems/Online-Shopping-System)
 
 ## Patterns
