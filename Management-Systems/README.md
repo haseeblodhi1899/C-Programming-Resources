@@ -2,9 +2,9 @@
 
 This folder contains implementations of various management systems in C.  Each system is designed to simulate and manage a specific real-world scenario, demonstrating practical applications of C programming concepts.
 
-*   [Event Scheduling System](Event-Scheduling-System/README.md)
-*   [Library System](Library-System/README.md)
-*   [Online Shopping System](Online-Shopping-System/README.md)
+*   [Event Scheduling System](Event-Scheduling-System)
+*   [Library System](Library-System)
+*   [Online Shopping System](Online-Shopping-System)
 
 ## Contact
 
